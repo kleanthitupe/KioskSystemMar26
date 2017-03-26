@@ -1,0 +1,4 @@
+E:\Downloads\CheckoutSystemFinal-master\Checkout System_Final_Mar25\SecondProject_Thin\bin\Debug\SecondProject_Thin.dll
+E:\Downloads\CheckoutSystemFinal-master\Checkout System_Final_Mar25\SecondProject_Thin\bin\Debug\SecondProject_Thin.pdb
+E:\Downloads\CheckoutSystemFinal-master\Checkout System_Final_Mar25\SecondProject_Thin\obj\Debug\SecondProject_Thin.dll
+E:\Downloads\CheckoutSystemFinal-master\Checkout System_Final_Mar25\SecondProject_Thin\obj\Debug\SecondProject_Thin.pdb

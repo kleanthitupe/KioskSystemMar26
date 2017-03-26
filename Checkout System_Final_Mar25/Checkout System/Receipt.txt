@@ -1,0 +1,7 @@
+Apple - Qty: 7 @ $1.00 = Regular Cost: $7.00; Applied Promo @ 3 for $2.00 - Cost: $5.00 (Savings: $2.00)
+Banana - Qty: 3 @ $0.50 = Regular Cost: $1.50; Applied Discount @ 0.20 each, Cost: $0.60 (Savings: $0.90)
+Orange - Qty: 3 @ $1.10 = Regular Cost: $3.30; Applied Promo @ 3 for $3.00 - Cost: $3.00 (Savings: $0.30)
+Plum - Qty: 2 @ $0.50 = Regular Cost: $1.00
+Pear - Qty: 3 @ $1.00 = Regular Cost: $3.00
+
+The total due for basket of goods: $12.60

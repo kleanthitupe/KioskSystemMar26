@@ -1,0 +1,6 @@
+﻿Apple, regular $1.00
+Orange, $1.10
+Orange, $1.10
+Banana, $0.50
+Pear, $1.00
+Plum, $0.50
